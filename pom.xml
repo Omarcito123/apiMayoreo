@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mayoreo</groupId>
 	<artifactId>cojutepeque</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>cojutepeque</name>
 	<description>Aplicacion para el negocio de mayoreo</description>
 	<properties>
@@ -55,7 +55,7 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20160810</version>
+			<version>20231013</version>
 		</dependency>
 	</dependencies>
 
